@@ -13,7 +13,7 @@
 - AWS (EC2, S3, IAM, VPC , Jenkins , CI/CD)
 - Git, GitHub
 - Linux, Windows
-- Networking basics
+- Networking 
 
 ### Contact
 - Email: siddhaigarunoorjahan@gmail.com
