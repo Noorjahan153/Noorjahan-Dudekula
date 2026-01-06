@@ -7,7 +7,7 @@
 ### About Me
 - Interested in Cloud and IT Support roles  
 - Hands-on practice with AWS and cloud fundamentals  
-- Learning DevOps basics and cloud troubleshooting  
+- Learning Azure Cloud basics and cloud troubleshooting  
 
 ### Skills
 - AWS (EC2, S3, IAM, VPC , Jenkins , CI/CD)
