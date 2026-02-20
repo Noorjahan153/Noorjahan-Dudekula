@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Noorjahan
 
-🌥️ Aspiring Cloud Support / DevOps Engineer  
+🌥️ Aspiring DevOps Engineer  
 🎓 Computer Science Graduate  
 📍 Hyderabad, India  
 
